@@ -9,7 +9,7 @@ def name
 end
 
  def bark
-   "Woof!"
+  puts "Woof!"
  end
 
 end
